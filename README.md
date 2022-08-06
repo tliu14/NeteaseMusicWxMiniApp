@@ -1,13 +1,3 @@
-# netmusic-app
-欢迎star issue
-
-仿网易云音乐APP的微信小程序
-
-[还有Vue版本哦](https://github.com/sqaiyan/neteasemusic)
-
-需后端支持
-下载启动[node服务端](https://github.com/sqaiyan/netmusic-node)即可
-
 ### 目前实现功能
 
 1. 用户
